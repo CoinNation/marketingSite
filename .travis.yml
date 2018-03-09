@@ -4,7 +4,7 @@ pre_install:
 install:
   - pip2 install hyde
 script:
-  - hyge gen
+  - hyde gen
 after_success:
   - hyde publish -p github
   - .travis/push.sh
