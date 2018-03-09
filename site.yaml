@@ -55,5 +55,5 @@ tagger:
 publisher:
     github:
         type: hyde.ext.publishers.dvcs.Git
-        path: ../coinnation.github.io
+        path: ./coinnation.github.io
         url: git@github.com:CoinNation/coinnation.github.io.git
