@@ -3,4 +3,4 @@
 	url = git://github.com/twbs/bootstrap.git
 [submodule "coinnation.github.io"]
 	path = coinnation.github.io
-	url = git@github.com:CoinNation/coinnation.github.io.git
+	url = https://github.com/CoinNation/coinnation.github.io.git
