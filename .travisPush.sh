@@ -1,5 +1,3 @@
-export GIT_SSH_COMMAND="ssh -i ./deploy.key"
-
 setup_git() {
   git config --global user.email "build@travis-ci.org"
   git config --global user.name "build"
