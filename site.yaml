@@ -52,3 +52,8 @@ tagger:
             archive_extension: html
             meta:
                 listable: false
+publisher:
+    github:
+        type: hyde.ext.publishers.dvcs.Git
+        path: ../coinnation.github.io
+        url: git@github.com:CoinNation/coinnation.github.io.git
